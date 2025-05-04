@@ -2,6 +2,9 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "graph-tags"
+    "graph-tags",
+    "tag-colors",
+    "color-nodes-by-tags",
+    "graph-nodes"
   ]
 }

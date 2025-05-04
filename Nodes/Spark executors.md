@@ -1,1 +1,2 @@
+#core-concept
 A Spark executor runs on each worker node in the cluster. The executors communi‐ cate with the driver program and are responsible for executing tasks on the workers. In most deployments modes, only a single executor runs per node.

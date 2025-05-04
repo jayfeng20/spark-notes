@@ -1,1 +1,2 @@
+#core-concept
 During interactive sessions with Spark shells, the driver converts your Spark applica‐ tion into one or more Spark jobs (Figure 2-3). It then transforms each job into a DAG. This, in essence, is Spark’s execution plan, where each node within a DAG could be a single or multiple Spark stages.![[Screenshot 2025-05-04 at 11.18.51 AM.png]]

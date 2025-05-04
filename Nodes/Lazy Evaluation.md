@@ -1,3 +1,5 @@
+#core-concept #example 
+
 The actions and transformations contribute to a [[Spark query plan]], which we will
 cover in the next chapter. Nothing in a query plan is executed until an action is
 invoked.

@@ -1,3 +1,4 @@
+#core-concept 
 Application 
 - A user program built on Spark using its APIs. It consists of a driver program and executors on the cluster. 
 [[SparkSession]]

@@ -1,3 +1,5 @@
+#api
+#core-concept 
 ![[Screenshot 2025-05-04 at 11.23.44 AM.png]]
 
 Spark operations on distributed data can be classified into two types: 

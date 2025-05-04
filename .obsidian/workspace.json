@@ -11,10 +11,14 @@
             "id": "ad8c0f5c9070042e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Run Example Apps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Run Example Apps"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#core-concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "7f3bf39cdcd49f25",
+            "id": "94ba3ab084243990",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,46 +187,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db077c90fd50074f",
+  "active": "ad8c0f5c9070042e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Nodes/spark driver.md",
-    "Nodes/Transformations.md",
-    "Nodes/Distributed Data and partitions.md",
-    "Learning Spark/Chapter 1 - Intro to Spark.md",
-    "Nodes/Deployment Modes.md",
     "Learning Spark/Chapter 2 - Basics.md",
-    "Nodes/Nodes.md",
-    "Images&Figures/Screenshot 2025-05-04 at 10.55.29 AM.png",
-    "Images&Figures/Images&Figures.md",
-    "Nodes/Run Example Apps.md",
-    "Nodes",
-    "Untitled.md",
-    "README.md",
     "Learning Spark/Catalog.canvas",
-    "Vault.md",
-    "Images&Figures",
-    "Nodes/RDD.md",
-    "Tags",
+    "Nodes/Spark Application Concepts.md",
+    "Nodes/Transformations.md",
+    "Nodes/Run Example Apps.md",
+    "Nodes/Spark Job.md",
+    "SampleCode/data/mnm_dataset.csv",
+    "SampleCode/data",
+    "SampleCode/mnmcount.py",
+    "SampleCode",
     "Nodes/Spark UI.md",
     "Nodes/How an application translate into Jobs.md",
-    "Images&Figures/Screenshot 2025-05-04 at 11.36.06 AM.png",
-    "Nodes/Transformations and Actions.md",
-    "Images&Figures/Screenshot 2025-05-04 at 11.32.18 AM.png",
-    "Nodes/Wide Transformations.md",
-    "Nodes/Narrow Transformations.md",
-    "Images&Figures/Screenshot 2025-05-04 at 11.31.20 AM.png",
-    "Nodes/Spark’s Directories and Files.md",
     "Nodes/Lazy Evaluation.md",
-    "Images&Figures/Screenshot 2025-05-04 at 11.28.31 AM.png",
-    "Nodes/DataFrame.md",
-    "Images&Figures/Screenshot 2025-05-04 at 11.23.44 AM.png",
-    "Nodes/Spark Application Concepts.md",
+    "Nodes/Transformations and Actions.md",
+    "Nodes/Parallelism Optimization.md",
     "Nodes/SparkSession.md",
     "Nodes/Spark Task.md",
     "Images&Figures/Screenshot 2025-05-04 at 11.21.18 AM.png",
     "Nodes/Spark Stage.md",
+    "Nodes/Using the Scala or PySpark Shell.md",
+    "Nodes/Spark’s Directories and Files.md",
+    "Learning Spark/Chapter 1 - Intro to Spark.md",
+    "Nodes/Distributed Data and partitions.md",
+    "Nodes/Deployment Modes.md",
+    "Nodes/Distributed Execution.md",
+    "Nodes/cluster manager.md",
+    "Nodes/Spark executors.md",
+    "Nodes/RDD.md",
+    "Nodes/Why is Spark good.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Nodes/spark driver.md",
+    "Nodes/Nodes.md",
+    "Images&Figures/Screenshot 2025-05-04 at 10.55.29 AM.png",
+    "Nodes",
+    "Images&Figures",
+    "Tags",
+    "Images&Figures/Screenshot 2025-05-04 at 11.36.06 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.32.18 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.31.20 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.28.31 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.23.44 AM.png",
     "Images&Figures/Screenshot 2025-05-04 at 11.19.17 AM.png",
     "Images&Figures/Screenshot 2025-05-04 at 11.18.51 AM.png",
     "Images&Figures/Screenshot 2025-05-04 at 11.17.42 AM.png",

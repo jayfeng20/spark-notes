@@ -1,3 +1,7 @@
+#spark-setup 
+#spark-ui
+
+
 [Graphical user interface](https://spark.apache.org/docs/latest/web-ui.html)
 
 running by default on port 4040, where you can view metrics and details such as: 

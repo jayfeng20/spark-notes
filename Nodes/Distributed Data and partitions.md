@@ -1,4 +1,6 @@
+#core-concept
 #performance 
+#example
 While the data is distributed as partitions across the physical cluster, Spark treats each partition as a high-level logical data abstraction—as a DataFrame in memory. Though this is not always possible, each Spark executor is preferably allocated a task that requires it to read the partition closest to it in the net‐ work, observing data locality.![[Screenshot 2025-05-04 at 11.05.10 AM.png]]
 
 

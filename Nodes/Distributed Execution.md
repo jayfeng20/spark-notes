@@ -1,1 +1,2 @@
+#core-concept
 At a high level in the Spark architecture, a Spark application consists of a driver program that is responsible for orchestrating parallel operations on the Spark cluster. The [[spark driver]] accesses the distributed components in the cluster—the [[Spark executors]] and [[cluster manager]]—through a [[SparkSession]].![[Screenshot 2025-05-04 at 11.01.24 AM.png]]
