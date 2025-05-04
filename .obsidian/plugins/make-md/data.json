@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Learning Spark"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

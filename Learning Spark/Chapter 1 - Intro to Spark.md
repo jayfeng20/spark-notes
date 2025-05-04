@@ -1,3 +1,7 @@
+---
+sticker: emoji//1f92f
+banner: 
+---
 
 [[Why is Spark good]]
 

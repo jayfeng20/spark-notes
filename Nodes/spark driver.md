@@ -1,1 +1,2 @@
+#core-concept 
 As the part of the Spark application responsible for instantiating a [[SparkSession]], the Spark driver has multiple roles: it communicates with the [[cluster manager]]; it requests resources (CPU, memory, etc.) from the cluster manager for Spark’s executors (JVMs); and it transforms all the Spark operations into DAG computations, schedules them, and distributes their execution as tasks across the Spark executors. Once the resources are allocated, it communicates directly with the executors.
