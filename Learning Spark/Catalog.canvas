@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"7be87b7296cf5fa2","type":"file","file":"Learning Spark/Chapter 1 - Intro to Spark.md","x":-400,"y":-380,"width":400,"height":400},
+		{"id":"b8068b0929b2a177","x":40,"y":-380,"width":400,"height":400,"type":"file","file":"Learning Spark/Chapter 2 - Basics.md"}
+	],
+	"edges":[]
+}

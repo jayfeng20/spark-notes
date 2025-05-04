@@ -1,0 +1,1 @@
+Spark builds its query computations as a DAG. Its DAG scheduler and query optimizer construct an efficient computational graph that can usually be decomposed into tasks that are executed in parallel across workers on the cluster. [[SQL Optimization]]

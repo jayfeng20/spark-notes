@@ -1,0 +1,1 @@
+It provides Resilient Distributed Dataset [[RDD]]

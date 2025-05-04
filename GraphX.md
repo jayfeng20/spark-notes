@@ -1,0 +1,3 @@
+As the name suggests, GraphX is a library for manipulating graphs (e.g., social net‐ work graphs, routes and connection points, or network topology graphs) and per‐ forming graph-parallel computations. It offers the standard graph algorithms for analysis, connections, and traversals, contributed by users in the community: the available algorithms include PageRank, Connected Components, and Triangle Counting.
+
+This code snippet shows a simple example of how to join two graphs using the GraphX APIs:![[Screenshot 2025-05-04 at 11.00.16 AM.png]]
