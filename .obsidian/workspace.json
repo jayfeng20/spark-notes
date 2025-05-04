@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Spark/Chapter 2 - Basics.md",
+                "file": "Run Example Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Basics"
+              "title": "Run Example Apps"
             }
           }
         ]
@@ -187,17 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db077c90fd50074f",
+  "active": "7f3bf39cdcd49f25",
   "lastOpenFiles": [
+    "Nodes/Nodes.md",
+    "Nodes",
+    "Untitled.md",
+    "Run Example Apps.md",
+    "Learning Spark/Chapter 2 - Basics.md",
     "README.md",
     "Learning Spark/Catalog.canvas",
     "Vault.md",
     "Images&Figures/Images&Figures.md",
     "Images&Figures",
     "RDD.md",
-    "Run Example Apps.md",
     "Tags",
-    "Learning Spark/Chapter 2 - Basics.md",
     "Spark UI.md",
     "How an application translate into Jobs.md",
     "Images&Figures/Screenshot 2025-05-04 at 11.36.06 AM.png",
@@ -227,8 +230,6 @@
     "Images&Figures/Screenshot 2025-05-04 at 11.10.18 AM.png",
     "Learning Spark/Chapter 1 - Intro to Spark.md",
     "Distributed Data and partitions.md",
-    "Deployment Modes.md",
-    "Distributed Execution.md",
     "Learning Spark"
   ]
 }
