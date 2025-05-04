@@ -11,12 +11,14 @@
             "id": "9c6a2e48785617ac",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "split-diff-view",
               "state": {
-                "path": "/"
+                "aFile": ".obsidian/plugins/make-md/data.json",
+                "bFile": ".obsidian/plugins/make-md/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Spark Notes"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -185,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bca6146352b1e464",
+  "active": "9c6a2e48785617ac",
   "lastOpenFiles": [
     "RDD.md",
     "Run Example Apps.md",
