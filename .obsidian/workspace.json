@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#core-concept",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad8c0f5c9070042e",
+  "active": "347a19e83a87ab10",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "Nodes/spark driver.md",
     "Nodes/Transformations.md",
