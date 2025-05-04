@@ -6,5 +6,7 @@
   "make-md",
   "obsidian-outliner",
   "url-into-selection",
-  "persistent-graph"
+  "persistent-graph",
+  "execute-code",
+  "code-styler"
 ]
