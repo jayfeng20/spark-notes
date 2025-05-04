@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8b417fad130160",
+        "id": "8df6716ef2b82cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "9c6a2e48785617ac",
+            "id": "ad8c0f5c9070042e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/make-md/data.json",
-                "bFile": ".obsidian/plugins/make-md/data.json",
-                "aRef": ""
+                "file": "Learning Spark/Chapter 2 - Basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Basics"
             }
           }
         ]
@@ -187,47 +187,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c6a2e48785617ac",
+  "active": "ad8c0f5c9070042e",
   "lastOpenFiles": [
+    "Learning Spark/Catalog.canvas",
+    "Vault.md",
+    "Images&Figures/Images&Figures.md",
+    "Images&Figures",
     "RDD.md",
     "Run Example Apps.md",
     "Tags",
     "Learning Spark/Chapter 2 - Basics.md",
     "Spark UI.md",
     "How an application translate into Jobs.md",
-    "Screenshot 2025-05-04 at 11.36.06 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.36.06 AM.png",
     "Transformations and Actions.md",
     "Transformations.md",
-    "Screenshot 2025-05-04 at 11.32.18 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.32.18 AM.png",
     "Wide Transformations.md",
     "Narrow Transformations.md",
-    "Screenshot 2025-05-04 at 11.31.20 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.31.20 AM.png",
     "Spark’s Directories and Files.md",
     "Lazy Evaluation.md",
-    "Screenshot 2025-05-04 at 11.28.31 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.28.31 AM.png",
     "DataFrame.md",
-    "Screenshot 2025-05-04 at 11.23.44 AM.png",
-    "Learning Spark/Catalog.canvas",
+    "Images&Figures/Screenshot 2025-05-04 at 11.23.44 AM.png",
     "Spark Application Concepts.md",
     "SparkSession.md",
     "Spark Task.md",
-    "Screenshot 2025-05-04 at 11.21.18 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.21.18 AM.png",
     "Spark Stage.md",
     "Spark executors.md",
-    "Screenshot 2025-05-04 at 11.19.17 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.19.17 AM.png",
     "Spark Job.md",
-    "Screenshot 2025-05-04 at 11.18.51 AM.png",
-    "Screenshot 2025-05-04 at 11.17.42 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.18.51 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.17.42 AM.png",
     "Using the Scala or PySpark Shell.md",
     "Learning Spark",
-    "Screenshot 2025-05-04 at 11.10.18 AM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 11.10.18 AM.png",
     "Learning Spark/Chapter 1 - Intro to Spark.md",
     "Distributed Data and partitions.md",
     "Deployment Modes.md",
     "Distributed Execution.md",
-    "cluster manager.md",
-    "spark driver.md",
-    "Why is Spark good.md",
     "Learning Spark"
   ]
 }
