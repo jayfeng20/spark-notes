@@ -1,4 +1,4 @@
-#example #configuration 
+ #configuration 
 
 A simple already existing application to run:
 `./bin/run-example JavaWordCount README.md`

@@ -1,4 +1,4 @@
-#api #api-functions #example 
+#api #api-functions 
 
 
 ## To find the most common types of fire calls

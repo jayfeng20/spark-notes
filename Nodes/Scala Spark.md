@@ -1,4 +1,4 @@
-#example #configuration #spark-setup 
+ #configuration #spark-setup 
 
 need to use SBT ([Scala Build Tool](https://www.scala-sbt.org/))
 

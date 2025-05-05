@@ -1,4 +1,4 @@
-#example #configuration #spark-setup 
+ #configuration #spark-setup 
 [[SampleCode]]
 - navigate to `SampleCode/` directory and find `mnmcount.py`
 - find the dataset under `data/`

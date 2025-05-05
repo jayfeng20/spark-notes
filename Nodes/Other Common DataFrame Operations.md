@@ -1,4 +1,4 @@
-#api #api-functions #example 
+#api #api-functions 
 
 ## `min(), max(), sum()`
 

@@ -1,4 +1,4 @@
-#api #api-functions #example 
+#api #api-functions
 
 #pitfalls 
 As with creating DataFrames from data sources, when creating a Dataset you have to

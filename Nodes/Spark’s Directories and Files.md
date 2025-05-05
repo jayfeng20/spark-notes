@@ -1,4 +1,4 @@
-#example #reference  #spark-setup
+ #reference  #spark-setup
 extract the tarball contents with `tar -xf spark-3.0.0-preview2-binhadoop2.7.tgz`
 ![[Screenshot 2025-05-04 at 11.10.18 AM.png]]
 

@@ -13,7 +13,6 @@ plan. it goes through [Four transformational Phases](https://oreil.ly/jMDOi)
 ![[Screenshot 2025-05-04 at 8.10.41 PM.png]]
 
 
-#example 
 ## Consider the following example
 
 ![[Screenshot 2025-05-04 at 8.11.55 PM.png]]

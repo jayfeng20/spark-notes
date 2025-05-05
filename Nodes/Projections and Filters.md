@@ -1,4 +1,4 @@
-#api #example 
+#api 
 
 In Spark, projections are done with the `select()` method, while filters can be expressed using the `filter()` or `where()` method.![[Screenshot 2025-05-04 at 7.15.17 PM.png]]
 

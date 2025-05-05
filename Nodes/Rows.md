@@ -1,4 +1,4 @@
-#core-concept #api #example #api-functions 
+#core-concept #api  #api-functions 
 [[DataFrame]]
 Note: `Row` is a generic object type in Spark -> `Dataset[T]`
 

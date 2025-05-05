@@ -23,5 +23,4 @@ Spark allows you to define a schema in two ways. One is to define it <mark style
 ### Method 2: DDL
 ![[Screenshot 2025-05-04 at 6.34.13 PM.png]]
 
-#example 
 Some sample code for a quick application in both PySpark and Scala Spark could be found under [[SampleCode]] `SampleCode/[language]/createSchema.scala or .py`

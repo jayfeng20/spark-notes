@@ -6,7 +6,6 @@ As mentioned previously, named columns in DataFrames are conceptually similar to
 In Spark’s sup‐ ported languages, columns are <mark style="background: #FFB8EBA6;">objects with public methods (represented by the Column type)</mark>.
 [Public Methods](https://oreil.ly/xVBIX)
 
-#example 
 ## Columns in Spark
 
 Note: `blogsDF` is a DataFrame constructed in `createSchema` files

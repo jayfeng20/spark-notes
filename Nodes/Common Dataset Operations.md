@@ -1,4 +1,4 @@
-#api #api-functions #example 
+#api #api-functions 
 ![[Screenshot 2025-05-04 at 7.48.09 PM.png]]
 
 `filter()` is an overloaded method with many signatures. The version we used, `filter(func: (T) > Boolean): Dataset[T]`, takes a lambda function, `func: (T) > Boolean`, as its argument.
