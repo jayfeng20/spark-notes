@@ -1,9 +1,11 @@
 #api
 #core-concept 
+#api-functions 
 ![[Screenshot 2025-05-04 at 11.23.44 AM.png]]
 
 Spark operations on distributed data can be classified into two types: 
 - [[Transformations]]
+	- [[Projections and Filters]]
 - [[Actions]]
 
 All transformations are evaluated lazily [[Lazy Evaluation]]. That is, their results are not computed immediately, but they are recorded or remembered as a lineage. A recorded lineage allows

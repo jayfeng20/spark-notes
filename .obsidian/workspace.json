@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8df6716ef2b82cd6",
+        "id": "abf84b5ba837108e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8c0f5c9070042e",
+            "id": "e2f8418b7562fbfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Learning Spark/Chapter 2 - Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Learning Spark/Catalog.canvas",
+                "viewState": {
+                  "x": -43.16657249652295,
+                  "y": 130.12410285960328,
+                  "zoom": -0.36190108097675994
+                }
               },
-              "icon": "lucide-file",
-              "title": "Chapter 2 - Basics"
+              "icon": "lucide-layout-dashboard",
+              "title": "Catalog"
             }
           }
         ]
@@ -186,9 +189,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad8c0f5c9070042e",
+  "active": "e2f8418b7562fbfb",
   "lastOpenFiles": [
-    "Nodes/Scala Spark.md",
+    "Nodes/4 Transformational Phases.md",
+    "Nodes/Catalyst optimizer.md",
+    "Nodes/Spark SQL Engine Optimizer.md",
+    "Nodes/An Catalyst Optimizer Example.md",
+    "Nodes/Deployment Modes.md",
+    "Images&Figures/Screenshot 2025-05-04 at 8.15.44 PM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 8.15.33 PM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 8.13.34 PM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 8.12.00 PM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 8.11.55 PM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 8.10.41 PM.png",
+    "Learning Spark/Chapter 3 - Apache Spark's Structured APIs.md",
+    "Nodes/Spark SQL Engine.md",
+    "Nodes/Project Tungsten.md",
+    "Images&Figures/Screenshot 2025-05-04 at 8.07.40 PM.png",
+    "Learning Spark/Chapter 2 - Basics.md",
+    "Nodes/Want to use RDD?.md",
+    "Nodes/DataFrame vs Dataset.md",
+    "Images&Figures/Screenshot 2025-05-04 at 8.00.31 PM.png",
+    "Nodes/Common DataFrame Operations.md",
+    "Nodes/DataFrame.md",
+    "Nodes/Common Dataset Operations.md",
+    "Nodes/Dataset.md",
+    "Nodes/Creating Datasets.md",
+    "Images&Figures/Screenshot 2025-05-04 at 7.51.07 PM.png",
+    "Images&Figures/Screenshot 2025-05-04 at 7.50.56 PM.png",
+    "Nodes/Rows.md",
+    "Nodes/Other Common DataFrame Operations.md",
+    "Nodes/Aggregations.md",
+    "Nodes/Renaming, Adding, Dropping Columns.md",
+    "Nodes/Transformations and Actions.md",
+    "Nodes/DataFrame Write.md",
+    "Nodes/DataFrame Read.md",
+    "Nodes/Projections and Filters.md",
+    "Nodes/Columns and Expressions.md",
+    "Nodes/Spark Schema.md",
+    "SampleCode/scala/createSchema.scala",
+    "SampleCode/python/createSchema.py",
+    "Learning Spark/Catalog.canvas",
     "SampleCode/scala/MnMcount.scala",
     "SampleCode/scala/target/streams/compile/_global/_global/discoveredMainClasses/data",
     "SampleCode/scala/target/streams/compile/_global/_global/compileOutputs/previous",
@@ -197,44 +238,7 @@
     "SampleCode/scala/target/streams/compile/_global/_global",
     "SampleCode/scala/target/streams/compile/_global",
     "SampleCode/scala/target/scala-2.12/main-scala-chapter2_2.12-1.0.jar",
-    "SampleCode/scala/target/streams/compile/packageBin/_global/streams/output",
-    "SampleCode/scala/target/streams/compile/packageBin/_global/streams/out",
-    "Nodes/Run Example Apps.md",
-    "Nodes/PySpark job.md",
-    "Learning Spark/Chapter 2 - Basics.md",
-    "Nodes/Spark Application Concepts.md",
-    "Learning Spark/Catalog.canvas",
-    "Nodes/Transformations.md",
-    "Nodes/Spark Job.md",
-    "Nodes/Spark UI.md",
-    "Nodes/How an application translate into Jobs.md",
-    "Nodes/Lazy Evaluation.md",
-    "Nodes/Transformations and Actions.md",
-    "Nodes/Parallelism Optimization.md",
-    "Nodes/SparkSession.md",
-    "Nodes/Spark Task.md",
-    "Images&Figures/Screenshot 2025-05-04 at 11.21.18 AM.png",
-    "Nodes/Spark Stage.md",
-    "Nodes/Using the Scala or PySpark Shell.md",
-    "Nodes/Spark’s Directories and Files.md",
-    "Learning Spark/Chapter 1 - Intro to Spark.md",
-    "Nodes/Distributed Data and partitions.md",
-    "Nodes/Deployment Modes.md",
-    "Nodes/Distributed Execution.md",
-    "Nodes/cluster manager.md",
-    "Nodes/Spark executors.md",
-    "Nodes/RDD.md",
-    "Nodes/Why is Spark good.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Images&Figures/Screenshot 2025-05-04 at 10.55.29 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.36.06 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.32.18 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.31.20 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.28.31 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.23.44 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.19.17 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.18.51 AM.png",
-    "Images&Figures/Screenshot 2025-05-04 at 11.17.42 AM.png"
+    "Untitled 1.canvas"
   ]
 }

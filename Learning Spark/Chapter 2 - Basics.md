@@ -1,3 +1,4 @@
+#chapters 
 After downloading Spark, take a look at [[Spark’s Directories and Files]]
 
 [[Using the Scala or PySpark Shell]]
