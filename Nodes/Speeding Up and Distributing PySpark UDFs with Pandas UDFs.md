@@ -21,3 +21,6 @@ See [Pandas UDFs](https://oreil.ly/jo7kl) for more info
 	- **Python process reads Arrow format directly** using PyArrow + Pandas (no deserialization needed in the traditional sense).
 	- After processing, results are **converted back to Arrow format**.
 	- JVM reads Arrow **without full deserialization** per row.
+
+
+[[Pandas UDF APIs]]

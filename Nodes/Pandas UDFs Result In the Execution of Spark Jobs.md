@@ -1,0 +1,4 @@
+#spark-ui #spark-sql 
+
+
+Like many Spark jobs, the job starts with `parallelize()` to send local data (Arrow binary batches) to executors and calls `mapPartitions()` to convert the Arrow binary batches to Spark’s internal data format, which can be distributed to the Spark workers. There are a number of `WholeStageCodegen` steps, which represent a fundamental step up in performance (thanks to Project Tungsten’s whole-stage code generation, which significantly improves CPU efficiency and performance). But it is the `ArrowE valPython` step that identifies that (in this case) a Pandas UDF is being executed.
