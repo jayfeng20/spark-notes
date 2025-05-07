@@ -1,6 +1,6 @@
 // Name of the package
 name := "main/scala/demo"
-// Version of our package
+// Version of package
 version := "1.0"
 // Version of Scala
 scalaVersion := "2.12.20"
