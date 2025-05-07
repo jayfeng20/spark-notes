@@ -1,5 +1,12 @@
 #core-concept #spark-sql 
 
+#pitfalls 
+## Use UDFs when
+- For scala
+	- the custom function cannot be constructed from Scala's built-in functions
+- For python
+	- Any custom function that does not use a function in `pyspark.sql.functions._`
+
 The benefit of creating your own PySpark or Scala UDFs is that you (and others) will be able to make use of them within Spark SQL itself. For example, a data scientist can wrap an ML model within a UDF so that a data analyst can query its predictions in Spark SQL without necessarily understanding the internals of the model.
 
 #pitfalls 

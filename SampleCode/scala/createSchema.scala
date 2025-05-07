@@ -1,5 +1,5 @@
 // In Scala
-package main.scala.chapter3
+package main.scala.demo
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.types._
 object Example3_7 {

@@ -1,13 +1,29 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/main-scala-chapter2_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/main-scala-demo_2.12-1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	main[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main[0m
 [0m[[0m[0mdebug[0m] [0m[0m	main/scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	main/scala/chapter2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/chapter2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	main/scala/chapter2/MnMcount.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/chapter2/MnMcount.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	main/scala/chapter2/MnMcount$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/chapter2/MnMcount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/DatasetDemo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/DatasetDemo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/DatasetDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/DatasetDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/DatasetDemo$Usage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/DatasetDemo$Usage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/Example3_7$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/Example3_7$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/DatasetDemo$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/DatasetDemo$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/Example3_7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/Example3_7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/MnMcount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/MnMcount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/DatasetDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/DatasetDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/DatasetDemo$Usage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/DatasetDemo$Usage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/demo/MnMcount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/j/Documents/Spark Notes/SampleCode/scala/target/scala-2.12/classes/main/scala/demo/MnMcount$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

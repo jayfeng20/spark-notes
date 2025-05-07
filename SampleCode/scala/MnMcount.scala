@@ -1,4 +1,4 @@
-package main.scala.chapter2
+package main.scala.demo
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 /**

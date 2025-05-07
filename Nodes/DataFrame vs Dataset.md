@@ -10,8 +10,7 @@ computing averages or sums, SQL queries, columnar access, or use of relational
 operators on semi-structured data, use DataFrames or Datasets.
 • If your processing dictates relational transformations similar to SQL-like queries,
 use DataFrames.
-• If you want to take advantage of and benefit from Tungsten’s efficient serializa‐
-tion with Encoders, , use Datasets.
+• If you want to take advantage of and benefit from Tungsten’s efficient serialization with Encoders, , use Datasets.
 • If you want unification, code optimization, and simplification of APIs across
 Spark components, use DataFrames.
 • If you are an R user, use DataFrames.
@@ -22,3 +21,8 @@ more control.
 appropriate API as depicted in Figure 3-2.
 ![[Screenshot 2025-05-04 at 8.00.31 PM.png]]
 
+
+## Another important distinction
+Spark DataFrames avoid extra serialization/deserialization overhead because they operate directly on Spark SQL's internal optimized format using SQL expressions, while Datasets (in Scala/Java) may require converting data to/from JVM objects when using lambda functions.
+
+- using lambda functions requires the subject to be a JVM object so

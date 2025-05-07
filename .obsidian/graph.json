@@ -1,23 +1,37 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#api  ",
+      "query": "tag:#performance  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#pitfalls  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#configuration  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38711146909591637,
-  "close": true
+  "scale": 0.5195151472973933,
+  "close": false
 }

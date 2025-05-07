@@ -1,4 +1,6 @@
-#api #api-functions
+#api #api-functions #reference 
+
+See`SampleCode/scala/DatasetDemo.scala`
 
 #pitfalls 
 As with creating DataFrames from data sources, when creating a Dataset you have to
