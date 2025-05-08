@@ -1,4 +1,4 @@
-#core-concept #spark-sql 
+#core-concept #spark-sql #data-source 
 Spark SQL includes a data source API that can read data from other databases using JDBC. It simplifies querying these data sources as it returns the results as a [[DataFrame]].
 
 To get started, you will need to specify the JDBC driver for your JDBC data source and it will need to be on the Spark classpath. From the $SPARK_HOME folder, you’ll issue a command like the following:
