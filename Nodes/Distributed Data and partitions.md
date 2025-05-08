@@ -8,3 +8,8 @@ Partitioning allows for efficient parallelism. A distributed scheme of breaking 
 ![[Screenshot 2025-05-04 at 11.05.52 AM.png]]
 For example, this code snippet will break up the physical data stored across clusters into eight partitions, and each executor will get one or more partitions to read into its memory
 ![[Screenshot 2025-05-04 at 11.06.06 AM.png]]
+
+#configuration 
+The size of a partition in Spark is dictated by `spark.sql.files.maxPartitionBytes`. The default is 128 MB.
+#pitfalls 
+You can decrease the size, but that may result in what’s known as the “small file problem”—many small partition files, introducing an inordinate amount of disk I/O and performance degradation thanks to filesystem operations such as opening, closing, and listing directories, which on a distributed filesystem can be slow.
