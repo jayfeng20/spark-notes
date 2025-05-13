@@ -10,4 +10,5 @@
 [[Static vs Dynamic Resource Allocation]]
 [[Configuring Spark Executors' memory and the Shuffle Service]]
 [[Caching and Persistence of Data]]
+[[Joins]]
 
