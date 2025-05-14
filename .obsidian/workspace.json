@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Spark/Chapter 7 - Optimizing and Tuning Spark Applications.md",
+                "file": "Nodes/Shuffle Sort Merge Join.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 - Optimizing and Tuning Spark Applications"
+              "title": "Shuffle Sort Merge Join"
             }
           }
         ]
@@ -189,8 +189,13 @@
   },
   "active": "bdd3beb2ad5c4d6f",
   "lastOpenFiles": [
-    "Nodes/Union and Joins.md",
+    "Nodes/Joins.md",
+    "Nodes/Shuffle Sort Merge Join.md",
+    "Nodes/Broadcast Hash Join.md",
+    "Nodes/Broadcast Variable.md",
+    "Images&Figures/Screenshot 2025-05-13 at 3.39.24 PM.png",
     "Learning Spark/Chapter 7 - Optimizing and Tuning Spark Applications.md",
+    "Nodes/Union and Joins.md",
     "Nodes/External Data Sources.md",
     "Nodes/Caching and Persistence of Data.md",
     "Nodes/Caching SQL Tables.md",
@@ -211,7 +216,6 @@
     "Images&Figures/Screenshot 2025-05-07 at 6.55.50 PM.png",
     "Images&Figures/Screenshot 2025-05-07 at 6.55.02 PM.png",
     "Images&Figures/Screenshot 2025-05-07 at 6.54.41 PM.png",
-    "Images&Figures/Screenshot 2025-05-07 at 6.52.17 PM.png",
     "Nodes/Common DataFrames and Spark SQL Operations.md",
     "Nodes/DataFra.md",
     "Nodes/DataFrame vs Dataset.md",
@@ -221,9 +225,6 @@
     "Learning Spark/Chapter 6 - Spark SQL and Datasets.md",
     "Nodes/Memory Management for Datasets and DataFrames.md",
     "Nodes/Creating Datasets.md",
-    "Nodes/Higher Order Functions and Datasets.md",
-    "Nodes/Higher Order Functions.md",
-    "Nodes/User Defined Functions.md",
     "SampleCode/scala/target/streams/compile/_global/_global/discoveredMainClasses/data",
     "SampleCode/scala/target/streams/compile/_global/_global/compileOutputs/previous",
     "SampleCode/scala/target/streams/compile/_global/_global/discoveredMainClasses",
@@ -234,7 +235,6 @@
     "SampleCode/scala/target/streams/compile/packageBin/_global/streams/output",
     "SampleCode/scala/target/streams/compile/packageBin/_global/streams/out",
     "SampleCode/scala/target/streams/compile/packageBin/_global/streams/inputs",
-    "Nodes/Dataset.md",
     "Learning Spark/Catalog.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
